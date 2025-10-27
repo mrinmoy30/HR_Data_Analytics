@@ -76,7 +76,7 @@ Here’s your HR dashboard **Visualizations Table**, formatted cleanly in the sa
 | **Clustered Bar Chart**  | Compare Avg. Income of Stayers vs. Leavers by Job Role | **Y-axis:** `Job Role`, **X-axis:** `Avg Monthly Income`, **Legend:** `CF_attrition label`    |
 | **Line Chart**           | Analyze attrition rate trend by Years Since Promotion  | **X-axis:** `Years Since Last Promotion`, **Y-axis:** `Attrition Rate`                        |
 
-## 5. How to Use This Dashboard 🤔
+## 5. How to Use This Dashboard 🖱️
 
 This interactive dashboard allows for flexible data exploration:
 
