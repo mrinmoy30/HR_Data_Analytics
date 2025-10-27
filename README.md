@@ -1,4 +1,4 @@
-# 📊 HR Employee Analysis
+# 📊 HR Data Analytics
 
 This project aims to conduct a comprehensive analysis of employee attrition patterns within the company. The primary goal is to identify key drivers of turnover and provide actionable insights by utilizing various Key Performance Indicators (KPIs) and visualizations within Power BI.
 
